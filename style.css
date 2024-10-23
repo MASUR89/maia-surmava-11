@@ -62,7 +62,7 @@
 }
 @keyframes translateTree {
     0%{transform: translate(0);}
-    100%{transform: translate(-1500px);}
+    100%{transform: translate(-1200px);}
 }
 .road   {
     width: 100%;
